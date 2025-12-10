@@ -1,0 +1,11 @@
+.normal {
+    font-style: normal; /* teks ditampilkan dengan gaya normal */
+}
+
+.italic {
+    font-style: italic; /* teks ditampilkan dengan gaya italic */
+}
+
+.oblique {
+    font-style: oblique; /* teks ditampilkan dengan gaya oblique */
+}
